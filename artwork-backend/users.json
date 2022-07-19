@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Samuel0220",
+        "password": "$2b$10$r2IrdhA6javVMuuxAhTkyOUDcc3Sd79tK5YX3t6zsEsU/l8w6eLiC",
+        "favorites": [
+            {
+                "id": "92937",
+                "url": "https://openaccess-cdn.clevelandart.org/1922.1133/1922.1133_web.jpg",
+                "note": "newnote",
+                "tags": [
+                    "newnote911"
+                ]
+            },
+            {
+                "id": "137259",
+                "title": "Mme L... (Laure Borreau)",
+                "url": "https://openaccess-cdn.clevelandart.org/1962.2/1962.2_web.jpg",
+                "note": "néniinblack",
+                "tags": [
+                    "asfa"
+                ],
+                "base64": "aHR0cHM6Ly9vcGVuYWNjZXNzLWNkbi5jbGV2ZWxhbmRhcnQub3JnLzE5NjIuMi8xOTYyLjJfd2ViLmpwZw=="
+            }
+        ]
+    },
+    {
+        "name": "NewUser",
+        "password": "$2b$10$WJDCYAKa.1gf5RPxdhynje1PtOcCGTwiK45zNTbeprNqJVp/oHEFq",
+        "favorites": [
+            {
+                "id": "103366",
+                "title": "Elizabeth Beltzhoover Mason",
+                "url": "https://openaccess-cdn.clevelandart.org/1921.428/1921.428_web.jpg",
+                "note": "sad",
+                "tags": [
+                    "asd"
+                ],
+                "base64": "aHR0cHM6Ly9vcGVuYWNjZXNzLWNkbi5jbGV2ZWxhbmRhcnQub3JnLzE5MjEuNDI4LzE5MjEuNDI4X3dlYi5qcGc="
+            }
+        ]
+    }
+]
